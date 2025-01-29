@@ -17,7 +17,6 @@
 **От всей души благодарим наших авторов: Jen Looper, Chris Noring, Christopher Harrison, Jasmine Greenaway, Yohan Lasorsa, Floor Drees, и художника зарисовок Tomomi Imura!**
 
 # Давайте начнем!
-Нет войне в Украине! Долой Путина!
 
 > **Преподавателям.** Мы подготовили [несколько советов](for-teachers.ru.md) о том, как использовать этот курс. Будем рады узнать о ваших впечатлениях на [нашем форуме](https://github.com/microsoft/Web-Dev-For-Beginners/discussions/categories/teacher-corner)!
 
